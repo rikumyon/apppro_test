@@ -6,3 +6,13 @@
 >mkdir apppro_test
 >cd apppro_test
 >notepad test.txt
+>git init
+>git config --global user.email "kobariku526.gmail.com"
+>git config --global user.name "rikumyon"
+>git add test.txt
+>git commit -m "初めてのプッシュ"
+>git remote add origin https://github.com/rikumyon/apppro_test.git
+>git push --set-upstream origin master
+
+現れた画面でTOKENを入力
+github上にtest.txtが追記されている。
