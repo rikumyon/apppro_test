@@ -12,7 +12,7 @@ https://github.com/rikumyon/apppro_test.git
 - 今のブランチを見る
 ```
 git branch
-
+```
 - ブランチを作成する
 ```
 git branch test_branch
